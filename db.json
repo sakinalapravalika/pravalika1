@@ -1,0 +1,134 @@
+{
+  "details": [
+    {
+      "firstname": "mnknk",
+      "lastname": "nknkll",
+      "username": "mahender",
+      "password": "Mahi@123",
+      "dob": "15-2-1997",
+      "mobileno": "57657687687",
+      "role": "admin",
+      "id": 14
+    },
+    {
+      "firstname": "laxmi",
+      "lastname": "priya",
+      "username": "gunni1",
+      "password": "Gunni@1",
+      "dob": "23-10-1998",
+      "mobileno": "8978675654",
+      "role": "admin",
+      "id": 22
+    },
+    {
+      "firstname": "llll",
+      "lastname": "llll",
+      "username": "llllll",
+      "password": "Llll12",
+      "dob": "15-2-1999",
+      "mobileno": "7812484628",
+      "role": "admin",
+      "id": 23
+    },
+    {
+      "firstname": "gunni",
+      "lastname": "hhhhh",
+      "username": "arpitha",
+      "password": "Aa1234",
+      "dob": "15-2-1996",
+      "mobileno": "7998749823",
+      "role": "student",
+      "id": 24
+    },
+    {
+      "firstname": "kkkkk",
+      "lastname": "hhhhh",
+      "username": "arpitha1",
+      "password": "Aa12345",
+      "dob": "15-2-1993",
+      "mobileno": "7998749820",
+      "role": "student",
+      "id": 25
+    },
+    {
+      "firstname": "llllll",
+      "lastname": "hhhhh",
+      "username": "lacki1",
+      "password": "Aa123456",
+      "dob": "15-2-1999",
+      "mobileno": "7998749827",
+      "role": "student",
+      "id": 26
+    },
+    {
+      "firstname": "laaaa",
+      "lastname": "kkkkk",
+      "username": "lacki12",
+      "password": "Aa1234567",
+      "dob": "15-2-1994",
+      "mobileno": "7998749827",
+      "role": "student",
+      "id": 27
+    },
+    {
+      "firstname": "laaaae",
+      "lastname": "kkkkkk",
+      "username": "lacki123",
+      "password": "Aa12345678",
+      "dob": "15-2-1996",
+      "mobileno": "7998749823",
+      "role": "student",
+      "id": 28
+    },
+    {
+      "firstname": "shivakumar",
+      "lastname": "sakinala",
+      "username": "shivas",
+      "password": "Shiva1",
+      "dob": "12-2-98",
+      "mobileno": "7624762386",
+      "role": "student",
+      "id": 29
+    },
+    {
+      "firstname": "aravind",
+      "lastname": "vullengula",
+      "username": "aravind",
+      "password": "Pavan12",
+      "dob": "13-5-1997",
+      "mobileno": "1243756478",
+      "role": "student",
+      "id": 30
+    },
+    {
+      "firstname": "pravalika",
+      "lastname": "sakinala",
+      "username": "pavan",
+      "role": "student",
+      "dob": "28-08-1997",
+      "password": "Pavan@1",
+      "mobileno": "9063147248",
+      "id": 31
+    },
+    {
+      "firstname": "SRIJA",
+      "lastname": "BJCHASK",
+      "username": "HONEY1",
+      "password": "Pavan@12",
+      "dob": "15-2-1997",
+      "mobileno": "4838565847",
+      "role": "student",
+      "id": 32
+    },
+    {
+      "firstname": "fefgerf",
+      "lastname": "rkjkltm",
+      "username": "mklml",
+      "role": "klml",
+      "dob": "d mfn",
+      "password": "fwef",
+      "mobileno": "efbwehfiel",
+      "id": 33
+    }
+  ]
+}
